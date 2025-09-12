@@ -347,8 +347,6 @@ See [Contributing](./CONTRIBUTING.md) for more details.
 
     <br>
 
-  Made with [contrib.rocks](https://contrib.rocks).
-
 - Thanks to the welcoming community, the volunteers who helped along the journey, developers, contributors
   and contributors who put time and effort into everything including making all the libraries, tools, and the
   information we rely on
@@ -366,8 +364,6 @@ See [Contributing](./CONTRIBUTING.md) for more details.
 [FlutterQuill Extensions]: https://pub.dev/packages/flutter_quill_extensions
 
 [ReactQuill]: https://github.com/zenoamaro/react-quill
-
-[Youtube Playlist]: https://youtube.com/playlist?list=PLbhaS_83B97vONkOAWGJrSXWX58et9zZ2
 
 [Slack Group]: https://join.slack.com/t/bulletjournal1024/shared_invite/zt-fys7t9hi-ITVU5PGDen1rNRyCjdcQ2g
 
